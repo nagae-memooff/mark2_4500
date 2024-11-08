@@ -16,7 +16,6 @@ warning () {
 TIMESTAMP=`date +%s`
 DIRPATH=/data/adb/mark2_4500 
 
-warning
 mkdir $DIRPATH
 
 # 显示警告信息
